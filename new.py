@@ -5,3 +5,5 @@ c = 2
 d = 5
 print(a - b)
 print(a + b)
+print(a * b)
+print(a / b)
